@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<log>
+<logentry
+   revision="18787">
+<author>ringo</author>
+<date>2013-06-04T16:40:30.873420Z</date>
+<msg>tidy up some messages</msg>
+</logentry>
+<logentry
+   revision="18786">
+<author>paul</author>
+<date>2013-06-04T16:37:57.197994Z</date>
+<msg>remove trailing slashes from symlinks to appease lintian</msg>
+</logentry>
+<logentry
+   revision="18785">
+<author>george</author>
+<date>2013-06-04T16:33:40.631367Z</date>
+<msg>remove execute permission from non executables
+</msg>
+</logentry>
+<logentry
+   revision="18784">
+<author>john</author>
+<date>2013-06-04T16:33:34.208758Z</date>
+<msg>Ignore the embedded library warning for now, as we need to get this done.  In an ideal world, we should indeed use the package.</msg>
+</logentry>
+<logentry
+   revision="18783">
+<author>ringo</author>
+<date>2013-06-04T16:27:57.050398Z</date>
+<msg>remove execute permission from non-executables
+</msg>
+</logentry>
+</log>

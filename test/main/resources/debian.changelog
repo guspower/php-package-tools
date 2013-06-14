@@ -1,0 +1,32 @@
+package-name (18787) all; urgency=low
+
+  * tidy up some messages
+
+ -- Ringo Starr <ringo.starr@beatles.com>  Tue, 4th June 2013 16:40:30 +0000
+
+package-name (18786) all; urgency=low
+
+  * remove trailing slashes from symlinks to appease lintian
+
+ -- Paul McCartney <paul.mccartney@beatles.com>  Tue, 4th June 2013 16:37:57 +0000
+
+package-name (18785) all; urgency=low
+
+  * remove execute permission from non executables
+
+
+ -- George Harrison <george.harrison@beatles.com>  Tue, 4th June 2013 16:33:40 +0000
+
+package-name (18784) all; urgency=low
+
+  * Ignore the embedded library warning for now, as we need to get this done.  In an ideal world, we should indeed use the package.
+
+ -- John Lennon <john.lennon@beatles.com>  Tue, 4th June 2013 16:33:34 +0000
+
+package-name (18783) all; urgency=low
+
+  * remove execute permission from non-executables
+
+
+ -- Ringo Starr <ringo.starr@beatles.com>  Tue, 4th June 2013 16:27:57 +0000
+
